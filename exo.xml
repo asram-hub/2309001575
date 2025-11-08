@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--hotel of 5 start-->
+<hotel_Rwanda>
+<hotel_1>
+    <_5stars>
+        <name> Radisson Blu Hotels </name>
+    </_5stars>
+    <location>
+        <country> rwanda </country>
+        <city> kigali </city>
+        <address> KG 5 Ave, kimihurura </address>
+    </location>
+    <accomodation>
+        <totalroom>2</totalroom>
+        <roomType>
+            <name> single room </name>
+            <bedPerRoom>1</bedPerRoom>
+            <bathRoom>1</bathRoom>
+            <price>USD$100</price>
+        </roomType>
+        <roomType>
+            <name> double room </name>
+            <bedPerRoom>2</bedPerRoom>
+            <bathRoom>2</bathRoom>
+            <price>USD$200</price>
+        </roomType>
+    </accomodation>
+    <url> radissonhotels.com </url>
+</hotel_1>
+
+<hotel_2>
+    <_5stars>
+        <name> Marriott Hotel </name>
+    </_5stars>
+    <location>
+        <country> rwanda </country>
+        <city> kigali </city>
+        <address> KN 3 Ave, nyarugenge </address>
+    </location>
+    <accomodation>
+        <totalroom>2</totalroom>
+        <roomType>
+            <name> single room </name>
+            <bedPerRoom>1</bedPerRoom>
+            <bathRoom>1</bathRoom>
+            <price>USD$100</price>
+        </roomType>
+        <roomType>
+            <name> double room </name>
+            <bedPerRoom>2</bedPerRoom>
+            <bathRoom>2</bathRoom>
+            <price>USD$200</price>
+        </roomType>
+    </accomodation>
+    <url> kigalimarriott.com </url>
+</hotel_2>
+<hotel_3>
+    <_5stars>
+        <name> serena Hotel </name>
+    </_5stars>
+    <location>
+        <country> rwanda </country>
+        <city> kigali </city>
+        <address> Boulevard de la revolution, kigali </address>
+    </location>
+    <accomodation>
+        <totalroom>2</totalroom>
+        <roomType>
+            <name> single room </name>
+            <bedPerRoom>1</bedPerRoom>
+            <bathRoom>1</bathRoom>
+            <price>USD$100</price>
+        </roomType>
+        <roomType>
+            <name> double room </name>
+            <bedPerRoom>2</bedPerRoom>
+            <bathRoom>2</bathRoom>
+            <price>USD$200</price>
+        </roomType>
+    </accomodation>
+    <url> serenahotel.com </url>
+</hotel_3>
+
+<!--hotel of 4 start-->
+<hotel_1>
+    <_4stars>
+        <name> Park Inn by Radisson Kigali </name>
+    </_4stars>
+    <location>
+        <country> rwanda </country>
+        <city> kigali </city>
+    </location>
+    <accomodation>
+        <totalroom>2</totalroom>
+        <roomType>
+            <name> single room </name>
+            <bedPerRoom>1</bedPerRoom>
+            <bathRoom>1</bathRoom>
+            <price>USD$80</price>
+        </roomType>
+        <roomType>
+            <name> double room </name>
+            <bedPerRoom>2</bedPerRoom>
+            <bathRoom>2</bathRoom>
+            <price>USD$150</price>
+        </roomType>
+    </accomodation>
+    <url> parkinn.com </url>
+</hotel_1>
+<hotel_2>
+    <_4stars>
+        <name> Grand Legacy Hotel Kigali </name>
+    </_4stars>
+    <location>
+        <country> rwanda </country>
+        <city> kigali </city>
+    </location>
+    <accomodation>
+        <totalroom>2</totalroom>
+        <roomType>
+            <name> single room </name>
+            <bedPerRoom>1</bedPerRoom>
+            <bathRoom>1</bathRoom>
+            <price>USD$80</price>
+        </roomType>
+        <roomType>
+            <name> double room </name>
+            <bedPerRoom>2</bedPerRoom>
+            <bathRoom>2</bathRoom>
+            <price>USD$150</price>
+        </roomType>
+    </accomodation>
+    <url> grandlegacyhotel.com </url>
+</hotel_2>
+<hotel_3>
+    <_4stars>
+        <name> Hotel des Mille Colines </name>
+    </_4stars>
+    <location>
+        <country> rwanda </country>
+        <city> kigali </city>
+    </location>
+    <accomodation>
+        <totalroom>2</totalroom>
+        <roomType>
+            <name> single room </name>
+            <bedPerRoom>1</bedPerRoom>
+            <bathRoom>1</bathRoom>
+            <price>USD$80</price>
+        </roomType>
+        <roomType>
+            <name> double room </name>
+            <bedPerRoom>2</bedPerRoom>
+            <bathRoom>2</bathRoom>
+            <price>USD$150</price>
+        </roomType>
+    </accomodation>
+    <url> millecolines.com </url>
+</hotel_3>
+
+<!--hotel of 3 start-->
+<hotel_1>
+    <_3stars>
+        <name> okapi Hotel </name>
+    </_3stars>
+    <location>
+        <country> rwanda </country>
+        <city> kigali </city>
+    </location>
+    <accomodation>
+        <totalroom>2</totalroom>
+        <roomType>
+            <name> single room </name>
+            <bedPerRoom>1</bedPerRoom>
+            <bathRoom>1</bathRoom>
+            <price>USD$50</price>
+        </roomType>
+        <roomType>
+            <name> double room </name>
+            <bedPerRoom>2</bedPerRoom>
+            <bathRoom>2</bathRoom>
+            <price>USD$100</price>
+        </roomType>
+    </accomodation>
+    <url> okapiHotel.com </url>
+</hotel_1>
+<hotel_2>
+    <_3stars>
+        <name> Dove Hotel </name>
+    </_3stars>
+    <location>
+        <country> rwanda </country>
+        <city> kigali </city>
+    </location>
+    <accomodation>
+        <totalroom>2</totalroom>
+        <roomType>
+            <name> single room </name>
+            <bedPerRoom>1</bedPerRoom>
+            <bathRoom>1</bathRoom>
+            <price>USD$50</price>
+        </roomType>
+        <roomType>
+            <name> double room </name>
+            <bedPerRoom>2</bedPerRoom>
+            <bathRoom>2</bathRoom>
+            <price>USD$100</price>
+        </roomType>
+    </accomodation>
+    <url> dovehotel.com </url>
+</hotel_2>
+
+<!--hotel of 2 start-->
+<hotel_1>
+    <_2stars>
+        <name> gGalax Hotel</name>
+    </_2stars>
+    <location>
+        <country> rwanda </country>
+        <city> kigali </city>
+    </location>
+    <accomodation>
+        <totalroom>2</totalroom>
+        <roomType>
+            <name> single room </name>
+            <bedPerRoom>1</bedPerRoom>
+            <bathRoom>1</bathRoom>
+            <price>USD$30</price>
+        </roomType>
+        <roomType>
+            <name> double room </name>
+            <bedPerRoom>2</bedPerRoom>
+            <bathRoom>2</bathRoom>
+            <price>USD$50</price>
+        </roomType>
+    </accomodation>
+    <url> galaxhotel.com </url>
+</hotel_1>
+<hotel_2>
+    <_2stars>
+        <name> ST Famille Hotel </name>
+    </_2stars>
+    <location>
+        <country> rwanda </country>
+        <city> kigali </city>
+    </location>
+    <accomodation>
+        <totalroom>2</totalroom>
+        <roomType>
+            <name> single room </name>
+            <bedPerRoom>1</bedPerRoom>
+            <bathRoom>1</bathRoom>
+            <price>USD$30</price>
+        </roomType>
+        <roomType>
+            <name> double room </name>
+            <bedPerRoom>2</bedPerRoom>
+            <bathRoom>2</bathRoom>
+            <price>USD$50</price>
+        </roomType>
+    </accomodation>
+    <url> saintefamille.com </url>
+</hotel_2>
+</hotel_Rwanda>
